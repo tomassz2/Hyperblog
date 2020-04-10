@@ -2,7 +2,11 @@ body
 {
     color: darkorange;
     text-align: left;
+<<<<<<< HEAD
     font-family: "arial";
+=======
+    font-family: "Arial";
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
