@@ -4,6 +4,8 @@ gg
 
 ahora sera el nudo
 
-Master 1
+experimento 1
 
-Master 2
+experimento 2
+
+Master 1
