@@ -8,3 +8,4 @@ blog de prueba donde estoy aprendiendo mucho.
 * Como hacer flujos profesionales de trabajo con pull request
 * Entre otras cosas
 * Creado por tomas desde su casa
+* con amor
